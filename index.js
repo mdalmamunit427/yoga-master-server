@@ -50,7 +50,7 @@ async function run() {
         const enrolledCollection = database.collection("enrolled");
         const paymentCollection = database.collection("payments");
         const appliedCollection = database.collection("applied");
-        client.connect();
+        // client.connect();
 
         // Verify admin
         const verifyAdmin = async (req, res, next) => {
@@ -463,7 +463,7 @@ async function run() {
             res.send(result);
         });
         // Send a ping to confirm a successful connection
-        await client.db("admin").command({ ping: 1 });
+        // await client.db("admin").command({ ping: 1 });
         console.log("Pinged your deployment. You successfully connected to MongoDB!");
     } finally {
         // Ensures that the client will close when you finish/error
@@ -473,7 +473,7 @@ run().catch(console.dir);
 
 
 app.get('/', (req, res) => {
-    res.send('SOUND SAFARI SERVER IS RUNNING');
+    res.send('Yoga Master Server is running!');
 })
 
 
