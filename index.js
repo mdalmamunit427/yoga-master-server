@@ -50,7 +50,7 @@ async function run() {
         const enrolledCollection = database.collection("enrolled");
         const paymentCollection = database.collection("payments");
         const appliedCollection = database.collection("applied");
-        // client.connect();
+        client.connect();
 
         // Verify admin
         const verifyAdmin = async (req, res, next) => {
@@ -481,3 +481,4 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
     console.log(`SERVER IS RUNNING ON PORT ${port}`);
 })
+

@@ -1,11 +1,11 @@
 {
-  "name": "server",
+  "name": "yoga-master-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
@@ -17,8 +17,5 @@
     "jsonwebtoken": "^9.0.0",
     "mongodb": "^5.6.0",
     "stripe": "^12.9.0"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.0"
   }
 }
