@@ -1,0 +1,75 @@
+{
+    "users": [
+        {
+            "_id": "65df65cbb547a06bbad2f018",
+            "name": "Md Al Mamun",
+            "email": "mdalmamunit427@gmail.com",
+            "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJbHdtBLXUAfOnav07QIzT1pCJbLh…",
+            "role": "admin",
+            "gender": "Is not specified",
+            "address": "Is not Provided",
+            "phone": "Is not Provide"
+        }
+    ],
+    "classes": [
+        {
+            "_id": "65e0a8b1ea542e3f73e3a791",
+            "name": "Progressive Power Flow",
+            "image": "https://i.ibb.co/1q6TT6j/women-on-yoga-2021-08-26-15-44-27-utc.jpg",
+            "availableSeats": 268,
+            "price": "70",
+            "videoLink": "https://youtu.be/UCgvZ4VkLMQ",
+            "description": "Aliq is notm hendr erit a augue insu image pellen tes.",
+            "instructorName": "Watson T.",
+            "instructorEmail": "watson@taylor.com",
+            "status": "approved",
+            "submitted": "2024-02-28T20:01:12.168Z",
+            "totalEnrolled": 2,
+            "reason": null
+        }
+    ],
+    "cart": [
+        {
+            "_id": "65e0a8b1ea542e3f73e3a791",
+            "name": "Progressive Power Flow",
+            "classId": "65e0a8b1ea542e3f73e3a791",
+            "email": "watson@taylor.com"
+        }
+    ],
+    "enrolled": [
+        {
+            "_id": "65e0a2e390f4342aa374bab6",
+            "userEmail": "eyelark18@gmail.com",
+            "classesId": [
+                {
+                    "0": "65e0a8b1ea542e3f73e3a792"
+                },
+                {
+                    "1": "65e0a8b1ea542e3f73e3a793"
+                }
+            ],
+            "transactionId": "pi_3OpBXRCmx8hfkpYc0Aoc4Hqx"
+        }
+    ],
+    "payments": [
+        {
+            "_id": "65e0a2e490f4342aa374bab7",
+            "transactionId": "pi_3OpBXRCmx8hfkpYc0Aoc4Hqx",
+            "paymentMethod": "pm_1OpBYECmx8hfkpYcaT84EYMN",
+            "amount": 50,
+            "currency": "usd",
+            "paymentStatus": "succeeded",
+            "userName": "Eye Lark",
+            "userEmail": "eyelark18@gmail.com",
+            "classesId": [
+                {
+                    "0": "65e0a8b1ea542e3f73e3a792"
+                },
+                {
+                    "1": "65e0a8b1ea542e3f73e3a793"
+                }
+            ],
+            "date": "2024-02-29T15:29:39.312Z"
+        }
+    ]
+}
