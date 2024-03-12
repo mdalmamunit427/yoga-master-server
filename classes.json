@@ -1,0 +1,107 @@
+[
+  {
+    
+    "name": "Progressive Power Flow",
+    "image": "https://i.ibb.co/1q6TT6j/women-on-yoga-2021-08-26-15-44-27-utc.jpg",
+    "availableSeats": 781,
+    "price": "70",
+    "videoLink": "https://youtu.be/UCgvZ4VkLMQ",
+    "description": "Aliq is notm hendr erit a augue insu image pellen tes.",
+    "instructorName": "Watson T.",
+    "instructorEmail": "watson@taylor.com",
+    "status": "approved",
+    "submitted": "2024-02-28T20:01:12.168Z",
+    "totalEnrolled": 9,
+    "reason": null
+  },
+  {
+    
+    "name": "Exercise Hacks for Women",
+    "image": "https://i.ibb.co/ygY8LvM/pretty-yoga-instructor-helping-her-student-in-a-yo-2021-08-26-20-17-29-utc.jpg",
+    "availableSeats": 516,
+    "price": "50",
+    "videoLink": "https://youtu.be/UCgvZ4VkLMQ",
+    "description": "Aliq is notm hendr erit a augue insu image pellen tes.",
+    "instructorName": "Teylor Len",
+    "instructorEmail": "teylor@len.com",
+    "status": "approved",
+    "submitted": "2024-02-28T20:01:40.168Z",
+    "totalEnrolled": 4,
+    "reason": null
+  },
+  {
+    
+    "name": "Make a Peaceful Living",
+    "image": "https://i.ibb.co/xqCFZZS/yoga-relax-2021-09-24-03-25-39-utc.jpg",
+    "availableSeats": 782,
+    "price": "50",
+    "videoLink": "https://youtu.be/UCgvZ4VkLMQ",
+    "description": "Aliq is notm hendr erit a augue insu image pellen tes.",
+    "instructorName": "Marry Hun",
+    "instructorEmail": "mary@hun.com",
+    "status": "approved",
+    "submitted": "2024-02-28T20:01:40.168Z",
+    "totalEnrolled": 8,
+    "reason": null
+  },
+  {
+   
+    "name": "Exercise Hacks for Women",
+    "image": "https://i.ibb.co/L89HLkw/group-of-young-people-doing-yoga-on-a-yoga-mat-2021-09-02-14-56-30-utc.jpg",
+    "availableSeats": 516,
+    "price": "50",
+    "videoLink": "https://youtu.be/UCgvZ4VkLMQ",
+    "description": "Aliq is notm hendr erit a augue insu image pellen tes.",
+    "instructorName": "Ema Aliq",
+    "instructorEmail": "ema@aliq.com",
+    "status": "approved",
+    "submitted": "2024-02-28T20:01:40.168Z",
+    "totalEnrolled": 4,
+    "reason": null
+  },
+  {
+   
+    "name": "Exercise Hacks for Women",
+    "image": "https://i.ibb.co/864425K/yoga-practice-indoors-2021-08-30-02-28-57-utc.jpg",
+    "availableSeats": 516,
+    "price": "50",
+    "videoLink": "https://youtu.be/UCgvZ4VkLMQ",
+    "description": "Aliq is notm hendr erit a augue insu image pellen tes.",
+    "instructorName": "Marry Hun",
+    "instructorEmail": "mary@hun.com",
+    "status": "approved",
+    "submitted": "2024-02-28T20:01:40.168Z",
+    "totalEnrolled": 4,
+    "reason": null
+  },
+  {
+    
+    "name": "Guided Mindfulness Meditations",
+    "image": "https://i.ibb.co/02jMrCN/Guided-Mindfulness-Meditations.jpg",
+    "availableSeats": 20,
+    "price": "120",
+    "videoLink": "https://youtu.be/UCgvZ4VkLMQ",
+    "description": "These guided mindfulness meditations progress through a series of stages, from focus to impermanence, helping you understand how to easily induce a calm, quiet state of meditation and mindfulness. Practicing these guided meditation techniques on a regular basis will help you feel better, more relaxed, with more energy, less anxiety and more focus in your daily life. They are accessible to anyone, regardless of your age and experience.",
+    "instructorName": "Your Assistant",
+    "instructorEmail": "help.yourassistant@gmail.com",
+    "status": "approved",
+    "submitted": "2024-03-02T04:29:29.375Z",
+    "totalEnrolled": 0,
+    "reason": null
+  },
+  {
+   
+    "name": "Test 1",
+    "image": "https://i.ibb.co/kXL3KrS/Test-1.jpg",
+    "availableSeats": 25,
+    "price": "90",
+    "videoLink": "https://youtu.be/UCgvZ4VkLMQ",
+    "description": "Test Class 1",
+    "instructorName": "Ema",
+    "instructorEmail": "ema@gmail.com",
+    "status": "approved",
+    "submitted": "2024-03-02T05:30:02.431Z",
+    "totalEnrolled": 0,
+    "reason": null
+  }
+]
